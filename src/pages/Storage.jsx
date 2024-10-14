@@ -1,7 +1,6 @@
 import React from 'react';
 import { Line, Bar } from 'react-chartjs-2';
 import { Grid, Card, Typography } from '@mui/material';
-import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
 
 
 // Data for the line chart (Sessions over time)
